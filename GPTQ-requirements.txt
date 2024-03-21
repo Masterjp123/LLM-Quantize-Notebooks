@@ -1,1 +1,4 @@
-
+nvidia-cuda-runtime-cu12
+nvidia-cuda-nvcc-cu12
+nvidia-cublas-cu12
+nvidia-cufft-cu12
